@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "862841925597",
+    "project_id": "zulu-cec73",
+    "storage_bucket": "zulu-cec73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862841925597:android:0efe461eccc6ebb1f7d034",
+        "android_client_info": {
+          "package_name": "com.company.zulu2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfErE7dNmso_DVpwXfOEge6ZUqEJqSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862841925597:android:ffa3d01f1aea9b5cf7d034",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfErE7dNmso_DVpwXfOEge6ZUqEJqSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862841925597:android:a47110064bf9dfc8f7d034",
+        "android_client_info": {
+          "package_name": "com.example.zulufire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfErE7dNmso_DVpwXfOEge6ZUqEJqSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862841925597:android:3419dea066af84a5f7d034",
+        "android_client_info": {
+          "package_name": "com.mycompany.zulu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfErE7dNmso_DVpwXfOEge6ZUqEJqSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
